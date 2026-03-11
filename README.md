@@ -1,8 +1,8 @@
-Support SwIMU
+Support IMU Link
 
 Contenu :
 
-SwIMU est une plateforme professionnelle d’analyse du mouvement aquatique.
+IMU Link est une plateforme professionnelle d’analyse du mouvement aquatique.
 
 Pour toute assistance technique, problème de connexion ou question relative au capteur :
 
